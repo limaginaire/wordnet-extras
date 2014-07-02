@@ -7,8 +7,8 @@ Extra data and tools for WordNet 3.1 and WordNet Bahasa (wn-msa) in several form
 Core refers to the percentage of synsets covered from the semi-automatically compiled list of 5000 "core"
 word senses in Princeton WordNet (approximately the 5000 most frequently used word senses).
 They are marked with ✪ in the interface.
-The original list is here from http://wordnetcode.princeton.edu/standoff-files/core-wordnet.txt (Boyd-Graber et al., 2008).
-[Open Multilingual WordNet's version](http://compling.hss.ntu.edu.sg/omw/wn30-core-synsets.tab) (converted to wn30 synsets).
+The original list is from link:http://wordnetcode.princeton.edu/standoff-files/core-wordnet.txt[Boyd-Graber et al., 2008].
+link:http://compling.hss.ntu.edu.sg/omw/wn30-core-synsets.tab[Open Multilingual WordNet's version] (converted to wn30 synsets).
 
 This converts them to WordNet 3.1 synsets, available in tab and TURTLE formats:
 
