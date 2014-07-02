@@ -1,6 +1,6 @@
 = WordNet Extras
 
-Extra data and tools for WordNet 3.1 and WordNet Bahasa (wn-msa) in several formats.
+Extra data and tools for link:http://wordnet-rdf.princeton.edu/[WordNet 3.1 (RDF)] and link:http://wn-msa.sourceforge.net[WordNet Bahasa (wn-msa)] in several formats.
 
 == WordNet Core
 
